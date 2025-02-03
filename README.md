@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Jessica Rehak 🌒
 
-<!--
-**JessicaRehak/JessicaRehak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌍 Based in Berkeley, CA
+- 🎓 My background is Nuclear Engineering with a focus on numerical methods and nuclear physics
+- 📫 How to reach me: rehak@lbl.gov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Projects
+
+I am currently working with the [GRETA project at LBNL](https://greta.lbl.gov/) helping to improve event processing and 
+exploring improvements using machine learning.
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: C++, Python3
+- Tools: git, docker, VSCode
+
+---
+
+⭐️ From [JessicaRehak](https://github.com/JessicaRehak)
