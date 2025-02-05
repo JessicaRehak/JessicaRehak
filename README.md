@@ -1,10 +1,10 @@
 # Hi there, I'm Jessica Rehak 🌒
+[![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED)](https://hub.docker.com/u/jessicarehak) 
+[![Static Badge](https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23EA4335)](mailto:rehak@lbl.gov) 
 
 ## About Me
-
 - 🌍 Based in Berkeley, CA
 - 🎓 My background is Nuclear Engineering with a focus on numerical methods and nuclear physics
-- 📫 How to reach me: rehak@lbl.gov
 
 ## Main Projects
 
@@ -13,9 +13,7 @@ exploring improvements using machine learning.
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: C++, Python3
+- Programming Languages: C++, Python, bash
 - Tools: git, docker, VSCode
 
 ---
-
-⭐️ From [JessicaRehak](https://github.com/JessicaRehak)
